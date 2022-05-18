@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* para que no sume se usa el border box */
+  box-sizing: border-box;
+}
+
+header{
+  height: 150px;
+  width: 100%;
+  background-color: aqua;
+}
+
+h1{
+  text-align: center;
+}
